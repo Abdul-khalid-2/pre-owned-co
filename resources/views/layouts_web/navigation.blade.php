@@ -20,6 +20,9 @@
                         <a class="nav-link" href="{{ route('web.home') }}/#categories">Categories</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="{{ route('web.products') }}">Products</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="{{ route('web.about') }}">About</a>
                     </li>
                     <li class="nav-item">
